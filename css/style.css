@@ -1,0 +1,65 @@
+/*navbar color*/
+.nav{
+	background: #00506E;
+	padding: 0px; 	
+	border: 0px;
+}
+
+.navbar-fixed-top{
+	padding: 0px; 	
+}
+/*navbar item color*/
+.nav > li > a{
+	color: white;
+	text-shadow: none;
+}
+
+/*navbar hover*/
+.nav > li > a:hover{
+	background: #C7E7E6;
+	color: black;
+}
+
+/*expand  menu button*/
+.icon-bar{
+	background: #C7C602;
+}
+
+/* navbar brand color*/
+.navbar-brand{
+	color: white;
+}
+
+/* navbar brand hover color*/
+.navbar-brand:hover{
+	color: #C7C602;
+}
+/*active tab bg color*/
+.active{
+	background: white;
+	color: black;
+}
+
+/*active tab txt color*/
+.nav > .active > a{
+	color: black;
+}
+
+/*fixed nav padding*/
+.navbar-fixed-pad{
+	padding: 30px;
+}
+
+/*footer */
+.navbar-fixed-bottom{
+	background: #C7E7E6;
+}
+
+.navbar-btn{
+	padding-top: 10px;
+	margin: 5px;
+}
+
+.color-blue{
+	background: #E1E1E6;
+}
